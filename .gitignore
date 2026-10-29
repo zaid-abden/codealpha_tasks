@@ -1,0 +1,9 @@
+﻿**/.git/
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+
+**/.git_backup/
+**/*.csproj.user
+**/*.csproj.user

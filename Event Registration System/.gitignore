@@ -1,0 +1,32 @@
+## Visual Studio / .NET Core
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rms/
+[Aa]rm64/
+build/
+
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+
+# OS generated files
+.DS_Store
+Thumbs.db

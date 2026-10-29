@@ -1,0 +1,33 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+appsettings.*.local.json
